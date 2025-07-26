@@ -629,6 +629,7 @@ html{
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
     height: 300px;
 }
 .footer .container .members .imgs img{
