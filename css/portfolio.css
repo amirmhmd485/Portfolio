@@ -762,6 +762,9 @@ html{
     .footer .container .left{
         width: 300px;
     }
+    .footer .container .members .imgs{
+        height: fit-content;
+    }
 }
 @media(max-width:992px){
     .skills .container{
